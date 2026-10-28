@@ -1,0 +1,34 @@
+ALEX MORGAN
+STUDENT & DEVELOPER
+
+EDITABLE SAMPLE RESUME — Replace sample details with your own information.
+
+CONTACT
+Email: hello@example.com
+Location: Your city
+GitHub: Your GitHub profile
+LinkedIn: Your LinkedIn profile
+
+PROFILE
+Computer science student interested in frontend development, practical problem solving, and building useful web applications. Seeking an internship with opportunities to contribute and learn.
+
+EDUCATION
+Computer Science — Your university / college
+Add degree, graduation date, relevant coursework, and achievements.
+
+SKILLS
+HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma
+Keep only skills you can demonstrate.
+
+PROJECTS — SAMPLE IDEAS
+Forma: A focused task planner. React, CSS, local storage.
+Offscript: A personal publishing platform. React, Node.js, REST API.
+Weatherly: A city weather app. JavaScript, weather API, responsive CSS.
+Palette: A color palette tool. JavaScript, CSS, color theory.
+Replace these ideas with completed work and add repository and demo links.
+
+EXPERIENCE & ACTIVITIES
+Add academic projects, volunteer work, hackathons, student clubs, or internship experience.
+
+REFERENCES
+Add references with permission from your mentor, professor, or teammate.

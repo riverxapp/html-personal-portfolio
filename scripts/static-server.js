@@ -41,7 +41,18 @@ const server = http.createServer((req, res) => {
       return;
     }
 
-    res.writeHead(200);
+    const contentTypes = {
+      '.html': 'text/html; charset=utf-8',
+      '.css': 'text/css; charset=utf-8',
+      '.js': 'text/javascript; charset=utf-8',
+      '.json': 'application/json; charset=utf-8',
+      '.txt': 'text/plain; charset=utf-8',
+      '.svg': 'image/svg+xml',
+      '.png': 'image/png',
+      '.jpg': 'image/jpeg',
+      '.webp': 'image/webp',
+    };
+    res.writeHead(200, { 'Content-Type': contentTypes[path.extname(filePath)] || 'application/octet-stream' });
     res.end(content);
   });
 });

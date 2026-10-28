@@ -1,11 +1,16 @@
-# HTML Blank Source
+# Student Portfolio & Résumé
 
-This repo is intentionally minimal.
+A responsive, single-page student developer portfolio, built with HTML, CSS, and JavaScript. No build step or dependencies are required.
 
-## Purpose
+## Customize
 
-- Serve a near-empty `index.html`.
-- Keep only the minimum runtime needed to preview the file locally or in Docker.
+- Replace the sample name, biography, university, email, and social profile URLs in `index.html`.
+- Update project details in `app.js` and project artwork in `index.html`.
+- Replace `assets/alex-morgan-resume.txt` with your résumé and update the download links.
+- Adjust colors and fonts in `tokens.css`; layout and responsive styling live in `styles.css`.
+- The recommendation section intentionally uses a placeholder until you have permission to add a real reference.
+
+Project filters, keyboard-accessible project dialogs, mobile navigation, scroll reveals, and reduced-motion support are included. Google Fonts and the workspace photograph require an internet connection.
 
 ## AI Agent Permission Policy
 
