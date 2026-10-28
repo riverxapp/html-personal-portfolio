@@ -1,0 +1,9 @@
+/* Hallmark · pre-emit critique: P4 H5 E4 S4 R5 V4 */
+/* Hallmark · genre: editorial · macrostructure: Portfolio Grid · theme: Manifesto · nav: N9 adapted · footer: Ft1 */
+:root {
+ --color-paper:#f6f5f1; --color-ink:#24241f; --color-muted:#777870; --color-accent:#e94d28; --color-rule:#d9d9d0; --color-surface:#eeeee8;
+ --color-cream:#f6f3e6; --color-green:#d7ded0; --color-green-dark:#354c37; --color-orange:#ed6a38; --color-sky:#dbe6ed; --color-blue:#364b61;
+ --color-yellow:#e7b44e; --color-lilac:#c9b8d6; --color-pink:#e1a59c; --color-light:#fbfaf7; --color-shadow:#24241f15; --color-scrim:#24241f80;
+ --font-display:'Space Grotesk',sans-serif; --font-body:'Manrope',sans-serif;
+ --ease-out:cubic-bezier(.22,1,.36,1); --dur-fast:180ms; --dur-normal:350ms; --dur-reveal:800ms; --space-gutter:clamp(22px,5.2vw,80px);
+}
